@@ -1,3 +1,4 @@
+# BEFORE RUNNING requests, DO pip3 install requests
 # READING FROM INTERNET
 import requests
 # FETCHING JSON FORMAT FROM INTERNET

@@ -1,3 +1,4 @@
+# BEFORE RUNNING text-to-speech, DO pip3 install pyttsx3
 # READING FROM INTERNET
 import requests
 # FETCHING JSON FORMAT FROM INTERNET
