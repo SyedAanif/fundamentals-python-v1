@@ -3,7 +3,7 @@
 
 ### In this we will learn basics of Python 3:
 1. Installation of `Python 3`
-2. Installation of `PyCharm` IDE by `JetBrains`
+2. Installation of `PyCharm` IDE by `JetBrains` or `VSCode` by `Microsoft`
 3. `print()` in Pyhton
 4. Variables:
     - Creating variables
@@ -52,4 +52,12 @@ Go to [Download Python for your OS](https://www.python.org/downloads/)
     - pip3 install requests
 2. For `pyttsx3`
     - pip3 install pyttsx3
+
+
+### Install IDE
+1. `PyCharm`
+    - Go to [Download PyCharm for your OS](https://www.jetbrains.com/pycharm/download/)
+
+2. `VSCode`
+    - Go to [Download VSCode for your OS](https://code.visualstudio.com/download)
 
