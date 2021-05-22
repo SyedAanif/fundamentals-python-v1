@@ -60,4 +60,5 @@ Go to [Download Python for your OS](https://www.python.org/downloads/)
 
 2. `VSCode`
     - Go to [Download VSCode for your OS](https://code.visualstudio.com/download)
+    - Add `Python` extension
 
